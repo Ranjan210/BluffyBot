@@ -1,2 +1,2 @@
 # BluffyBot
-A simple crawler bot used for purpose of scraping webpages
+**A simple crawler bot used for purpose of scraping webpages**
